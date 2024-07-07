@@ -8,3 +8,5 @@ UNITS: US
 1 teaspoon baking soda
 1⁄2 teaspoon salt
 1⁄2 teaspoon vanilla (optional)
+
+Thank you
