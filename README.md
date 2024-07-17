@@ -29,4 +29,6 @@ This is a Banana Bread recipe that is cited from the internet
 
 **Congratulations!** Now you can enjoy the *delicious* banana bread!
 
+**Thank you for reading!**
+
 ![Recipe Image](recipe.png)
